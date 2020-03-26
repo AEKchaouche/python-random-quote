@@ -37,8 +37,8 @@ Terminating the loop
 
  # 1. retirer de l'argent.
  # 2. appuyez sur 2 pour transférer de l'argent.
- # 3.pour déposer de l'argent.
- # 4. pour afficher le solde actuel.
+ # 3. déposer de l'argent.
+ # 4. afficher le solde actuel.
 
 
 numéros_de_comptes=[23410324,132432,9865665,596900,4654680,76432,86785342,5678888,734533,456045456]
