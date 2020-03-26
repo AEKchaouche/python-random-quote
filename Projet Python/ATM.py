@@ -5,6 +5,7 @@ Created on Tue Mar 17 02:24:11 2020
 @author: acer
 """
 
+<<<<<<< HEAD
 chances = 3
 balance = 67.14
 while chances >= 0:
@@ -39,6 +40,13 @@ withdraw? \nÂ£10/Â£20/Â£40/Â£60/Â£80/Â£100 for other enter 1: '))
                     restart = ('y')
                 elif withdrawl == 1:
                     withdrawl = float(input('Please Enter Desired amount:'))    
+=======
+### you can test it, not finished yet
+
+numéros_de_comptes=[23410324,132432,9865665,596900,4654680,76432,86785342,5678888,734533,456045456]
+clé_de_comptes=[2344,5433,7523,9806,4560,6454,5343,6565,3455,5677]
+solde_de_comptes=[20000,10000,0,0,0,0,0,0,0,0]
+>>>>>>> 855376395f94add97b931bf7a9745c1adf73f96d
 
             elif option == 3:
                 Pay_in = float(input('How Much Would You Like To Pay In? '))
