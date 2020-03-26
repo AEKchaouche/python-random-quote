@@ -18,13 +18,17 @@ for num in [11, 9, 88, 10, 90, 3, 19]:
    if(num==88):
 	   print("The number 88 is found")
 	   print("Terminating the loop")
-	   break
+
+break
+
+"""
 Output:
 11
 9
 88
 The number 88 is found
 Terminating the loop
+"""
 
     ## programme de gestion de l'ATM,
 
