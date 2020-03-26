@@ -5,6 +5,8 @@ Created on Tue Mar 17 02:24:11 2020
 @author: acer
 """
 
+### you can test it, not finished yet
+
 numéros_de_comptes=[23410324,132432,9865665,596900,4654680,76432,86785342,5678888,734533,456045456]
 clé_de_comptes=[2344,5433,7523,9806,4560,6454,5343,6565,3455,5677]
 solde_de_comptes=[20000,10000,0,0,0,0,0,0,0,0]
