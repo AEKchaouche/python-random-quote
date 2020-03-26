@@ -1,6 +1,6 @@
 projet python
 
-
+##########
 
 numéros_de_comptes=[23410324,132432,9865665,596900,4654680,76432,86785342,5678888,734533,456045456]
 clé_de_comptes=[2344,5433,7523,9806,4560,6454,5343,6565,3455,5677]
@@ -25,3 +25,5 @@ else:
             argent=int(input("Entrez le montant d'argent:"))
             if argent>solde_de_comptes[counter]:
                 print("Pas assez d'argent dans votre solde")
+                
+                ######
